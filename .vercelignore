@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+/storage
+/bootstrap/cache
+/.git
+/.github
+/tests
+/docs
+*.md
+.env
+.env.local
